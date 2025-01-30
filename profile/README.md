@@ -39,8 +39,8 @@ Nous sommes une équipe d'étudiants ayant travaillé ensemble pour mener à bie
 
 Le projet est organisé en deux principaux dépôts GitHub :
 
-- [Frontend Repository](#) - *(Ce dépôt contient une application Android développée en **kotlin**. L'application communique avec le backend via des requêtes REST et avec le SDK Rainbow.)*
-- [Backend Repository](#) - *(Ce dépôt contient une API REST qui interface le frontend et Rainbow. L'Api est codée en Javascript avec le framework **[NestJs](https://nestjs.com)**.)*
+- [Frontend Repository](https://github.com/alcatel-taxi-brousse/frontend) - *(Ce dépôt contient une application Android développée en **kotlin**. L'application communique avec le backend via des requêtes REST et avec le SDK Rainbow.)*
+- [Backend Repository](https://github.com/alcatel-taxi-brousse/backend) - *(Ce dépôt contient une API REST qui interface le frontend et Rainbow. L'Api est codée en Javascript avec le framework **[NestJs](https://nestjs.com)**.)*
 
 
 ## Roadmap
