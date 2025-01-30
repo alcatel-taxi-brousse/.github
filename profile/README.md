@@ -20,19 +20,19 @@ Nous sommes une équipe d'étudiants ayant travaillé ensemble pour mener à bie
 - **Haessig Christian** - *Référent Pédagogique - CNAM Strasbourg*
 
 ### Gestion de projet
-- **Munch Axel** - *Chef de projet* ([GitHub](#))
+- **Munch Axel** - *Chef de projet*
 
 ### <img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" alt="drawing" style="width:3rem;"/> Equipe Backend
-- **Maël Ehrhard** - *Ingénieur Architecte Backend* ([GitHub](#))
-- **Oudini Zinedine** - *Ingénieur Backend, Architecte Base de Données* ([GitHub](#))
-- **Belhia Fouad** - *Ingénieur Backend* ([GitHub](#))
-- **Offerle Alexandre** - *Architecte Backend, Ingénieur DevOps* ([GitHub](#))
+- **Maël Ehrhard** - *Ingénieur Architecte Backend*
+- **Oudini Zinedine** - *Ingénieur Backend, Architecte Base de Données* 
+- **Belhia Fouad** - *Ingénieur Backend*
+- **Offerle Alexandre** - *Architecte Backend, Ingénieur DevOps* 
 
 ### <img src="https://img.icons8.com/?size=100&id=P2AnGyiJxMpp&format=png&color=000000" alt="android" style="width:3rem;"/> Equipe Frontend
-- **Pichon Sébastien** - *Ingénieur Frontend, UI/UX master & Ergonome* ([GitHub](#))
-- **Bechlem Robin** - *Ingénieur Frontend, Integrateur, Gestionnaire des Flux* ([GitHub](#))
-- **Ben Younes Ghada** - *Ingénieur Frontend, UI* ([GitHub](#))
-- **Moughalzi Oumaima** - *Ingénieur Frontend, UI* ([GitHub](#))
+- **Pichon Sébastien** - *Ingénieur Frontend, UI/UX master & Ergonome* 
+- **Bechlem Robin** - *Ingénieur Frontend, Integrateur, Gestionnaire des Flux*
+- **Ben Younes Ghada** - *Ingénieur Frontend, UI*
+- **Moughalzi Oumaima** - *Ingénieur Frontend, UI*
 
 
 ## 🛠️ Organisation du projet
